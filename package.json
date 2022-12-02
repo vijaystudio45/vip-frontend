@@ -1,6 +1,7 @@
 {
   "name": "vipnumber",
   "version": "0.1.0",
+  "homepage": "http://198.50.252.93:3000/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
